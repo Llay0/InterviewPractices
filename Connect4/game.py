@@ -1,5 +1,5 @@
 from enum import Enum
-from board import Board
+from Connect4.board import Board
 
 class Disc(Enum):
     RED = 1

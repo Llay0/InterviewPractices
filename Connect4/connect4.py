@@ -1,4 +1,4 @@
-from game import Game
+from Connect4.game import Game
 
 
 def print_board(board):
